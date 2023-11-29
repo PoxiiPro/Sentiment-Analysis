@@ -1,2 +1,2 @@
-- Trained NLP model using large data set of reviews to determine a overall sentiment from a set of reviews
+- Trained NLP (Natural Language Processing) model using large data set of reviews to determine a overall sentiment from a set of reviews
 - Model can predict the sentiment based off of the reviews to determine if it was overall positive or negative feedback
